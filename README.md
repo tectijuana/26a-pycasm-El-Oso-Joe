@@ -230,7 +230,3 @@ Genera:
 * 🤖 Solver automático (AI + ASM)
 
 ---
-
-
-
-**[Tu nombre]**
