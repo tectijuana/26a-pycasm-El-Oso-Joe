@@ -31,9 +31,9 @@ _italic text_
 ```cpp
 /*
  * Nombre del Archivo: main.c
- * Autor:   [Tu Nombre]
- * Correo:  [Tu Correo]
- * Fecha:   [Fecha]
+ * Autor:   Andres Manuel Perez Flores
+ * Correo:  l23212039@tectijuana.edu.mx
+ * Fecha:   16-04-2026
  * Curso:   Lenguajes de Interfaz, TECNM Campus ITT
  * 
  * Objetivo:
